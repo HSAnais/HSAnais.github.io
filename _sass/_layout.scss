@@ -60,14 +60,21 @@
             padding-top: 10px;
             text-align: center;
 
-            > svg {
+            /* > svg {
                 width: 18px;
                 height: 15px;
 
                 path {
                     fill: $grey-color-dark;
                 }
-            }
+            }*/
+        }
+
+        .menu-bar{
+          width: 35px;
+          height: 5px;
+          background-color: black;
+          margin: 6px 0;
         }
 
         .trigger {
